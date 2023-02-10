@@ -1,0 +1,6 @@
+module Pods_GoogleImagesApi {
+  umbrella header "Pods-GoogleImagesApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
